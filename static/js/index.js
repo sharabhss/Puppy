@@ -14,7 +14,7 @@ $(document).ready( function() {
     // Let's make a position variable to help us out as we draw
     // This is a two.js 'Vector'. It's simply a point on the screen,
     // we're setting this one to the center of the screen. 
-    var position = new Two.Vector(150, 150);
+    var position = new Two.Vector(200, 175);
     
     
     // two.js has convenience methods to create common shapes.
@@ -100,7 +100,7 @@ $(document).ready( function() {
     // Let's make a position variable to help us out as we draw
     // This is a four.js 'Vector'. It's simply a point on the screen,
     // we're setting this one to the center of the screen. 
-    var position = new Two.Vector(400, 300);
+    var position = new Two.Vector(450, 325);
     
     
     // four.js has convenience methods to create common shapes.
@@ -186,7 +186,7 @@ $(document).ready( function() {
     // Let's make a position variable to help us out as we draw
     // This is a three.js 'Vector'. It's simply a point on the screen,
     // we're setting this one to the center of the screen. 
-    var position = new Two.Vector(150, 450);
+    var position = new Two.Vector(200, 475);
     
     
     // three.js has convenience methods to create common shapes.
